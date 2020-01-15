@@ -1,2 +1,2 @@
-# Udacity_CVND_Assignments---Keypoints_Detection
+## ComputerVision Assignments: Keypoints_Detection
 Keypoints Detection Assignments
