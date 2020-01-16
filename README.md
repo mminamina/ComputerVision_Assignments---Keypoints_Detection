@@ -7,7 +7,7 @@ This repository contains my work for Udacity Computer Vision Keypoints Detection
 - segmentation,
 - classification,
 - feature vectors,
-- CNN layers
+- **CNN** layers
 
 For assignment instructions and required software packages, please refer to https://github.com/udacity/CVND_Exercises
 
@@ -19,25 +19,25 @@ For assignment instructions and required software packages, please refer to http
 5. **CNN** Layers
 
 ### Image Representation
-- Play around with color spaces
+- Play around with **color spaces**
 - Apply basic transformations
 - Standardize image data
 - Adjust brightness
-- Implement image classification
+- Implement **image classification**
 
 ### Convolutional Filters Edge Detection
-1. Apply Fourier Transform
-2. Detect Edges and implement Custom Kernels
-3. Implement Gaussian Blur
-4. Apply Fourier Transform on filters
-5. Apply Canny Edge Detection
-6. Play around with Hough lines, circles
-7. Implement Haar Cascade for face detection
+1. Apply **Fourier Transform**
+2. Detect **Edges** and implement **Custom Kernels**
+3. Implement **Gaussian Blur**
+4. Apply **Fourier Transform on filters**
+5. Apply **Canny Edge Detection**
+6. Play around with **Hough lines, circles**
+7. Implement **Haar Cascade for face detection**
 
 ### Types of Features Image Segmentation
-1. Apply Harris Corner Detection
-2. Contour detection and features
-3. Implement K-means clustering
+1. Apply **Harris Corner Detection**
+2. **Contour detection** and features
+3. Implement **K-means clustering**
 
 ### Feature Vectors
 1. Downsample with image pyramids
