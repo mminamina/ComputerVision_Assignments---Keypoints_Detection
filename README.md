@@ -1,4 +1,4 @@
-## ComputerVision Assignments: Keypoints_Detection
+## ComputerVision Assignments: Keypoints Detection
 Keypoints Detection Assignments
 ### Overview
 This repository contains my work for Udacity Computer Vision Keypoints Detection, which allow me to learn, test and implement various computer vision and **OpenCV** applications 
