@@ -34,7 +34,7 @@ For assignment instructions and required software packages, please refer to http
 6. Play around with **Hough lines, circles**
 7. Implement **Haar Cascade for face detection**
 
-### Types of Features Image Segmentation
+### Types of Feature Image Segmentation
 1. Apply **Harris Corner Detection**
 2. **Contour detection** and features
 3. Implement **K-means clustering**
